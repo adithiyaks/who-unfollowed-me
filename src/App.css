@@ -618,9 +618,9 @@ select:focus {
     gap: 1rem;
   }
 
-  .hero-title {
+  /* .hero-title {
     font-size: 2rem;
-  }
+  } */
 
   .stats-bar {
     flex-wrap: wrap;
