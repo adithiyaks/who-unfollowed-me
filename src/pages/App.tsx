@@ -11,7 +11,7 @@ function App() {
     <div className="app-shell">
       <header className="navbar">
         <div className="nav-brand">
-          <img src="/logo.svg" alt="NoFollowBack??" width="32" height="32" className="brand-logo" />
+          <img src="/logo.svg" alt="NoFollowBack??" width="38" height="38" className="brand-logo" />
           <span className="brand-text">NoFollowBack??</span>
         </div>
         <nav className="nav-links">
